@@ -1,0 +1,29 @@
+*{
+	font-family: arial;
+	line-height: 1.6;
+	box-sizing: border-box;
+}
+
+
+h1{
+	padding: 300px;
+	text-align: center;
+	color: black;
+}
+
+h2 {
+	text-align: center;
+}
+
+.backgroundimg{
+	width: 100%;
+	height: 550px;
+	background-image: url("../img/hci.png"); 
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-top: 50px;
+}
+
+.main{
+	margin: 150px;
+}
